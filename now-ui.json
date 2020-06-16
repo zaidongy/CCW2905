@@ -1,0 +1,14 @@
+{
+	"components": {
+		"x-409431-cy-now-ui-task-list": {
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "Now Task Dashboard",
+				"icon": "chart-forecast-fill",
+				"description": "A task dashboard component"
+			},
+			"innerComponents": []
+		}
+	},
+	"scopeName": "x_409431_cy_now_0"
+}
